@@ -1,0 +1,43 @@
+body {background-color: #E0FBE2;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+h2 {color: #ACE1AF;
+    font-family: 'Comic Neue', cursive;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+button {
+    background-color: #BFF6C3;
+    border-color: #B0EBB4;
+    text-align: center;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ACE1AF;
+}
+
+#start-quiz {padding: 10px 20px;
+}
+
+#next {padding: 5px;
+}
+
+#quiz-container {
+    max-width: 600px;
+    margin: 80px auto;
+    padding: 70px;
+    background-color: #bdecc0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Open Sans', sans-serif;
+}
+
+#again {padding: 10px 20px;}
